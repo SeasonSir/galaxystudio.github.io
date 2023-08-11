@@ -46,6 +46,11 @@ main {
   padding: 30px;
 }
 
+section {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
 footer {
   background-color: #333;
   color: #fff;
