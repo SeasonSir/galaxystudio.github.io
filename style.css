@@ -53,6 +53,18 @@ html, body {
   background-color: rgba(0, 0, 0, 90);
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+
 footer {
   background-color: #333;
   color: #fff;
