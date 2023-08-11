@@ -46,10 +46,11 @@ main {
   padding: 30px;
 }
 
-section {
+html, body {
   background-image: url("background.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
-  background-color: rgba(0, 0, 0, 0.90);
+  background-color: rgba(0, 0, 0, 90);
 }
 
 footer {
