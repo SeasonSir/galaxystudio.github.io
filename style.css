@@ -51,9 +51,6 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgba(0, 0, 0, 90);
-}
-
-html, body {
   height: 100%;
   margin: 0;
   display: flex;
