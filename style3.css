@@ -79,6 +79,21 @@ body {
   color: inherit;
 }
 
+html, body {
+  background-image: url("t0189bbfff0a3848a63.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.90);
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
 footer {
   background-color: #333;
   color: #fff;
